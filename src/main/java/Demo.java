@@ -26,7 +26,6 @@ public class Demo {
         }
         
         reader.close();
-
     }
     
     public static boolean isTriangle(double a, double b, double c) {
