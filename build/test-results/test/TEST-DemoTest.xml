@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2025-04-24T05:47:50" hostname="majd-Precision-7520" time="0.05">
+  <properties/>
+  <testcase name="test_is_NOT_triangle_1()" classname="DemoTest" time="0.02"/>
+  <testcase name="test_is_NOT_triangle_2()" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_NOT_triangle_3()" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_NOT_triangle_4()" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_NOT_triangle_6()" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_NOT_triangle_7()" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_NOT_triangle_8()" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_NOT_triangle_9()" classname="DemoTest" time="0.002"/>
+  <testcase name="test_is_NOT_triangle_10()" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_NOT_triangle_11()" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_NOT_triangle_12()" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_NOT_triangle_13()" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_NOT_triangle_14()" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_1()" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_triangle_2()" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_3()" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_triangle_4()" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_triangle_5()" classname="DemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
