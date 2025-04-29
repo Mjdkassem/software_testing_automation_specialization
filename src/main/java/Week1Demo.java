@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Demo {
+public class Week1Demo {
 
     public static void main(String[] args) {
         // Reading from System.in
