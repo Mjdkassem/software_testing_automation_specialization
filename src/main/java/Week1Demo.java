@@ -36,13 +36,5 @@ public class Week1Demo {
         }
         return false;
     }
-    public static boolean isTriangle2(double a, double b, double c) {
-        if ((a + b > c) &&
-            (a + c > b) && // should be a + c > b
-            (b + c > a)) {
-            return true; 
-        }
-        return false;
-    }
 
 }
